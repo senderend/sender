@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+www.allendemoura.com
+
+www.medium.com/@senderend
+
+www.linkedin.com/in/allendemoura
+
 -->
 - 🔭 I’m currently working on my Active Directory exploitation methodology
 - 🌱 I’m currently learning ADCS exploits
@@ -23,8 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been to the northernmost human settlement on planet earth - Longyearbyen, Svalbard
 
-www.allendemoura.com
-
-www.medium.com/@senderend
-
-www.linkedin.com/in/allendemoura
