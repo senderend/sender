@@ -23,7 +23,7 @@ www.linkedin.com/in/allendemoura
 -->
 - 🔭 I’m currently working on my Active Directory exploitation methodology
 - 🌱 I’m currently learning ADCS exploits
-- 👯 I’m looking to collaborate on CTFs
+- 👯 I’m looking to collaborate on an Azure AD lab for experiments - if you've got domain knowledge/experience and want to collab, drop me a line!
 - 🤔 I’m looking for suggestions on your fav wordlists and rule/mask combos for password cracking
 - 💬 Ask me about how to reliably privesc with SeImpersonatePrivilege every time
 - 📫 How to reach me: me@allendemoura.com
