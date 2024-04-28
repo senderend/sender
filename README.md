@@ -26,7 +26,7 @@ www.linkedin.com/in/allendemoura
 - 👯 I’m looking to collaborate on building an Azure AD/EntraID lab for experiments
 - 🤔 I’m looking for suggestions on your fav wordlists and rule/mask combos for password cracking
 - 💬 Ask me about how to reliably privesc with SeImpersonate every time
-- 📫 How to reach me: me@allendemoura.com || [Twitter](https://twitter.com/senderend) || [LinkedIn](https://linkedin.com/in/allendemoura)
+- 📫 How to reach me: me@allendemoura.com | [Twitter](https://twitter.com/senderend) | [LinkedIn](https://linkedin.com/in/allendemoura)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been to the northernmost human settlement on planet earth - Longyearbyen, Svalbard
 
