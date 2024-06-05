@@ -21,7 +21,7 @@ www.medium.com/@senderend
 www.linkedin.com/in/allendemoura
 
 -->
-- 🔭 I’m currently working on [writeups](https://www.medium.com/@senderend) for my OSCP scripts and aliases (check out the [hackbook](https://github.com/allendemoura/hackbook) repo)
+- 🔭 I’m currently working on [writeups](https://www.medium.com/@senderend) for my OSCP scripts and aliases (check out my [hackbook](https://github.com/allendemoura/hackbook) repo)
 - 🌱 I’m currently learning ADCS and RBCD exploits in my home AD lab
 - 👯 I’m looking to collaborate on integrating Azure AD/EntraID into my lab
 - 🤔 I’m looking for suggestions on your fav wordlists and rule/mask combos for password cracking
