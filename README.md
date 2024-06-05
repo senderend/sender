@@ -22,8 +22,8 @@ www.linkedin.com/in/allendemoura
 
 -->
 - 🔭 I’m currently working on [writeups](https://www.medium.com/@senderend) for my OSCP scripts and aliases (check out the [hackbook](https://github.com/allendemoura/hackbook) repo
-- 🌱 I’m currently learning ADCS exploits
-- 👯 I’m looking to collaborate on building an Azure AD/EntraID lab for experiments
+- 🌱 I’m currently learning ADCS and RBCD exploits in my home AD lab
+- 👯 I’m looking to collaborate on integrating Azure AD/EntraID into my lab
 - 🤔 I’m looking for suggestions on your fav wordlists and rule/mask combos for password cracking
 - 💬 Ask me about how to reliably privesc with SeImpersonate every time
 - 📫 How to reach me: me@allendemoura.com | [Twitter](https://twitter.com/senderend) | [LinkedIn](https://linkedin.com/in/allendemoura)
